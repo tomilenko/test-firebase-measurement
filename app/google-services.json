@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93420683589",
+    "firebase_url": "https://testfirebasemeasurement.firebaseio.com",
+    "project_id": "testfirebasemeasurement",
+    "storage_bucket": "testfirebasemeasurement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93420683589:android:3300bea07ff16f000afe2c",
+        "android_client_info": {
+          "package_name": "com.ionicframework.testfirebasemeasurement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93420683589-i65egt63n69lh4g7nr5qdvmtld86rfe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrfBkCK5hAPe2aVF6kp2aPFZ_rjogSmVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93420683589-i65egt63n69lh4g7nr5qdvmtld86rfe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
